@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: green;
+    background-attachment: fixed;
+}
+
+h1{
+    color: rgb(4, 109, 0);
+    background-color: #53f15386;
+}
+#principal{
+    text-align: center;
+}
+
+h2{
+    color: rgba(4, 109, 0, 0.400)
+}
+.basic {
+    color: #00ff00;
+}
+
+.intermed {
+    color: yellowgreen;
+}
+
+.avançado {
+    color: rgb(206, 100, 30);
+}

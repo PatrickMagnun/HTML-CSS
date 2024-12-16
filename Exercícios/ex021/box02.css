@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+    background-color: azure;
+    text-align: center;
+    color: #260B01;}
+    header{
+        margin: auto;
+        background-color: #BFB2AA;}
+    a   {
+        text-decoration: none;
+        border: 5px solid darkgrey;
+        margin-right: 40px;
+        margin-left: 15px;
+        padding: 0px 10px;
+        color: whitesmoke;}
+    nav{
+        background-color: #A67951;
+        padding: 3px;}
+    nav>a:hover{
+        text-decoration: underline;
+        text-shadow: 1px;
+        color: blue;}
+    main{
+        background-color: #A68776;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 10px 10px 3px 3px;
+        box-shadow: 8px 8px 12px 10px #59341ebb;}
+        p{  text-indent: 20px;
+            text-align: left;}        
+        footer{
+            font-size: 12px;
+            height: 20px;
+            background-color: #59341E;
+            color: white;
+            text-align: center;
+            padding: 0px auto 0.5px auto;
+            margin: 0px;}
